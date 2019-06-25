@@ -1,11 +1,9 @@
 ## What?
-
+Remove unnecessary meta data from your Neo4j queries and deeply nested properties.
 
 __Features:__
 
-- Full implementation of CSS3 selectors
-- Partial implementation of jQuery/Sizzle extensions
-- Very high test coverage
+- Implement API or Neo4j-driver
 - Pretty good performance
 
 ## Why?
